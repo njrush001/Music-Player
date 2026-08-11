@@ -1,0 +1,6 @@
+data/
+errors/
+playlists/
+settings_data/
+__pycache__/
+*.pyc
